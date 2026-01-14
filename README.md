@@ -74,7 +74,7 @@ This project was built to:
 
 ## 📷 Preview
 
-![Website Preview](img/overview.png)
+![Website Preview](img/preview.png)
 
 ---
 
